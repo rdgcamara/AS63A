@@ -1,1 +1,1 @@
-O dbecommerce foi exportado pelo Compass
+O dbecommerce.json foi exportado pelo Compass
